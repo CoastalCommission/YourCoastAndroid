@@ -1,0 +1,72 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">YourCoastAndroid</string>
+
+    <!-- Activity names -->
+    <string name="title_activity_maps">YourCoast</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="action_info">About</string>
+
+    <!-- Warning strings -->
+    <string name="app_label">Test</string>
+    <string name="search_hint">Search Test</string>
+    <string name="permission_rationale_location">permission_rationale_location</string>
+    <string name="permission_required_toast">permission required toast</string>
+    <string name="location_permission_denied">location permission denied</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="address_label">Address</string>
+    <string name="phone_label">Phone</string>
+    <string name="amenities_label">Amenities</string>
+    <string name="directions">Directions</string>
+    <string name="call">Call</string>
+    <string name="fee">Fee</string>
+    <string name="parking">Parking</string>
+    <string name="disability">Disability Access</string>
+    <string name="restroom">Restrooms</string>
+    <string name="visitor">Visitor Center</string>
+    <string name="dog">Dog Friendly</string>
+    <string name="stroller">Stroller Access</string>
+    <string name="picnic">Picnic Area</string>
+    <string name="camp">Campground</string>
+    <string name="sand">Sandy Beach</string>
+    <string name="dune">Dunes</string>
+    <string name="rocky">Rocky Shore</string>
+    <string name="bluff">Bluff</string>
+    <string name="stairs">Stairs to Beach</string>
+    <string name="path">Path to Beach</string>
+    <string name="blufftopTrail">Blufftop Trail</string>
+    <string name="blufftopPark">Blufftop Park</string>
+    <string name="wildlife">Wildlife Viewing</string>
+    <string name="tidepool">Tidepool</string>
+    <string name="volleyball">Volleyball</string>
+    <string name="fishing">Fishing</string>
+    <string name="Boating">Boating</string>
+    <string name="photos">Photos</string>
+    <string name="search">Search for info about this location</string>
+    <string name="picturebutton">Submit A Photo</string>
+    <string name="sharebutton">Share Location</string>
+    <string name="example">Example Location</string>
+    <string name="examplesmall">small words about this</string>
+    <string name="photoinfotitle">Accept Terms and Conditions</string>
+    <string name="photoinfocontent">Instructions: Photos are shared via email. Once you click "I Accept" your email client will be opened to compose an email to the California Coastal Commission. Please attach the photos you wish you submit in the email and specify the location</string>
+    <string name="ok">OK</string>
+    <string name="p1">By accepting you agree to the following terms:</string>
+    <string name="p2">1. You took the photograph and have rights to the image.</string>
+    <string name="p3">2. The Coastal Commission may use the image pursuant to the Coastal Commission\'s Terms of Use and Private Policy.</string>
+    <string name="p4">3. The image does not contain objectionable imagery.</string>
+    <string name="p5">4. There is no guarantee that the image will be used, or that the Coastal Commission will respond to the submittal</string>
+    <string name="no">No</string>
+    <string name="accept">I Accept</string>
+    <string name="phonenumber"><u>415-561-4323;</u></string>
+    <string name="disabletext">chair must be reserved ahead for delivery; visit</string>
+    <string name="disabledlink"><u>www.nps.gov/goga/planyourvisit/accessibility.htm</u></string>
+    <string name="image_placeholder">Image Placeholder</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">YourCoast</string>
+    <string name="slide_1_desc">YourCoast makes it easy to explore the beautiful California Coast</string>
+    <string name="slide_2_title"></string>
+    <string name="slide_2_desc">Find the closest access points to you, or search new areas to explore.</string>
+    <string name="slide_3_desc">Refine with filters to find exactly what you\'re looking for.</string>
+</resources>
